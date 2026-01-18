@@ -2892,6 +2892,19 @@
 			)
 		)
 	)
+	(gr_text "BreathWatch"
+		(at 100.6 73.6 0)
+		(layer "F.Cu")
+		(uuid "f73a15c4-7108-4237-b658-e323a883e7b7")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 92.2 52.2)
 		(end 92.9 51.5)
