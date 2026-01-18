@@ -84,3 +84,15 @@ build/
 
 # clangd config (optional)
 .clangd
+
+# KiCad
+*_autosave-*
+*.kicad_prl
+fp-info-cache
+*.kicad_pro-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# CAD exports / temp
+**/~$*
+**/*.tmp
