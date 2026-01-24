@@ -10,17 +10,7 @@ void app_main(void)
         printf("Timer Wakeup");
 
 
-
-
-
-
-
      } else if (cause == ESP_SLEEP_WAKEUP_EXT0) {
-
-
-
-
-
 
         printf("Button Wakeup");
      }
