@@ -96,3 +96,17 @@ fp-info-cache
 # CAD exports / temp
 **/~$*
 **/*.tmp
+
+# PCB Gerber files
+hardware (PCB)/breathwatch_pcb/Gerber_JBLC/
+hardware (PCB)/breathwatch_pcb/Gerber_JBLC.zip
+hardware (PCB)/breathwatch_pcb/breathwatch_pcb-backups/
+
+# Ignore everything in PCB folder except main files
+hardware (PCB)/breathwatch_pcb/*
+!hardware (PCB)/breathwatch_pcb/breathwatch_pcb.kicad_pro
+!hardware (PCB)/breathwatch_pcb/breathwatch_pcb.kicad_sch
+!hardware (PCB)/breathwatch_pcb/breathwatch_pcb.kicad_pcb
+!hardware (PCB)/breathwatch_pcb/breathwatch_pcb.kicad_prl
+
+
