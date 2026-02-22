@@ -1,24 +1,29 @@
 # BreathWatch – Portable Air Quality Monitor
 
-![BreathWatch breadboard prototype](<hardware (PCB)/diagrams-images/prototype - breadboard.jpeg>)
+<img src="hardware (PCB)/diagrams-images/prototype - breadboard.jpeg" width="500" alt="BreathWatch breadboard prototype">
+
 *Prototype using breadboard*
 
 Personal IoT device using STM32 to monitor indoor air quality and send data to a Flutter mobile app via Bluetooth.
 
 ## Hardware (PCB Design)
 
-![Custom PCB 3D render](<hardware (PCB)/diagrams-images/pcb-3d.png>)
+<img src="hardware (PCB)/diagrams-images/pcb-3d.png" width="500" alt="Custom PCB 3D render">
+
 *3D view of PCB*
 
-![PCB design](<hardware (PCB)/diagrams-images/pcb-design.png>)
+<img src="hardware (PCB)/diagrams-images/pcb-design.png" width="500" alt="PCB design">
+
 *PCB layout*
 
 ## Circuit Overview
 
-![Wiring diagram](<hardware (PCB)/diagrams-images/circuit-diagram.png>)
+<img src="hardware (PCB)/diagrams-images/circuit-diagram.png" width="500" alt="Wiring diagram">
+
 *Detailed connections*
 
-![PCB circuit diagram](<hardware (PCB)/diagrams-images/circuit-diagram-pcb.png>)
+<img src="hardware (PCB)/diagrams-images/circuit-diagram-pcb.png" width="500" alt="PCB circuit diagram">
+
 *PCB schematic*
 
 ## Features
